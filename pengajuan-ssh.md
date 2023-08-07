@@ -9,9 +9,9 @@ Dalam Peraturan Pemerintah Nomor 12 Tahun 2019 tentang Pengelolaan Keuangan Daer
 3. SBU adalah harga satuan setiap unit non barang/jasa seperti honorarium dan perjalanan dinas yang berlaku di suatu daerah.
 4. ASB adalah penilaian kewajaran atas beban kerja dan biaya yang digunakan untuk melaksanakan suatu kegiatan.
 
-## Aplikasi Standar Harga (Reksaharga)
+## Panduan Aplikasi Standar Harga (Reksaharga)
 
-Aplikasi Standar Harga Satuan Barang sebagai dasar penyusunan perencanaan dan penganggaran yang ditetapkan dengan Peraturan Bupati Pasuruan.
+Aplikasi Standar Harga Satuan Barang sebagai dasar penyusunan perencanaan dan penganggaran yang ditetapkan dengan Peraturan Bupati Pasuruan. Panduan ini disadur dari [Manual Book Reksa Harga](http://reksaharga.pasuruankab.go.id/bahan_pelatihan.pdf).
 <!---
 ### Halaman Login
 
